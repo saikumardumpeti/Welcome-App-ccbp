@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.heading {
+  color: #f0bb03;
+  font-family: Bree Serif;
+}
+.para {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: Bree Serif;
+}
+.welcome-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
